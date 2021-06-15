@@ -1,2 +1,2 @@
-# Poetry_Bot
-An attempt to create my own poetry bot
+# Lyrics_Generator
+An attempt to create my own lyrics generator.
